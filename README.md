@@ -36,5 +36,6 @@ A classe KillController.java deve ter 4 métodos.
 - **Java:** Linguagem de programação usada para o desenvolvimento das funcionalidades.
 - **Eclipse:** IDE usada para o desenvolvimento do projeto.
 - **Git e GitHub:** Ferramentas usadas para controle de versão e gerenciamento de código.
+- **Sistema Operacional:** Windows 11.
 
 
